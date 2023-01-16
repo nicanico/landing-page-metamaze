@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Landing page visando relembrar, aprender novos conceitos e uso de ferramentas de linguagem de marcação
+Landing page visando relembrar, aprender novos conceitos e uso de ferramentas de linguagem de marcação.
 
 ## Finalidade
 

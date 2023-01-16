@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 400;
+    font-size: 1.5rem;
+    gap: 40px;
+    color: #fff;
+}
+.menu li{
+    border-bottom:  1.5px solid transparent;
+    transition: border-color 1s;
+    opacity: 50%;
+}
+.menu li:hover{
+    border-color: #fff;
+    opacity: 100%;
+}
