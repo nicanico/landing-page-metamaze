@@ -8,7 +8,7 @@
 }
 .menu li{
     border-bottom:  1.5px solid transparent;
-    transition: border-color 1s;
+    transition: border-color 1s, opacity 1s;
     opacity: 50%;
 }
 .menu li:hover{
