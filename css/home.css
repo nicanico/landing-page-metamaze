@@ -14,23 +14,46 @@
 .titulo{
     font-size: 6rem;
     color: #fff;
+    line-height: 100px;
+    margin-top: 30px;
 }
 .descrição{
     font-family: 'Baloo 2', cursive;
     font-size: 1.8rem;
+    line-height: 36px;
 }
 .token{
+    width: 100px;
+    height: 100px;
     font-family: 'Baloo 2', cursive;
+    border: 1px solid #fff;
+    border-radius: 100px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    margin-top: 30px;
+}
+.get-token{
+    font-size: 14px;
+}
+.seta-leste-norte{
+    font-size: 1.5rem;
+    
 }
 .imagens{
     position: absolute;
     z-index: -1;
     margin-left: 476px;
 }
-.meta-1{
+.img-1{
     box-shadow: 25px 25px 80px 6px rgba(107, 7, 198, 0.2);
         border-radius: 60px 0px;
         transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.pill{
+    margin-top: 40px;
+    margin-left: 800px;
 }
 .segundo-plano{
     display: flex;
@@ -40,4 +63,10 @@
     top: -150px;
     z-index: -2;
 }
-
+.circulo-cima{
+    transform: translate(702px, 64px);
+}
+.circulo-baixo{
+    transform: translate(-150px, -20px);
+    
+}
