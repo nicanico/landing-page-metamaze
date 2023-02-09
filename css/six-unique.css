@@ -1,0 +1,20 @@
+.six-unique{
+    display: flex;
+    flex-direction: column;
+    place-self: center;
+    margin-right: 240px;
+    margin-left: 308px;
+    text-align: center;
+}
+.s-title{
+    color: #fff;
+    font-size: 3rem;
+}
+.s-text{
+    color: #fff;
+    opacity: 0.6;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: 'Baloo 2', cursive;
+    margin: 0px 190px 0px 190px;
+}

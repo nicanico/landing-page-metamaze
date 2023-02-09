@@ -1,0 +1,48 @@
+.about-us{
+    height: 50vh;
+    margin-right: 240px;
+    margin-left: 308px;
+}
+.t-about{
+    font-size: 40px;
+    color: #B756FF;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+}
+.divisao{
+    display: flex;
+    gap: 164px;
+}
+.title-about{
+    color: #fff;
+    font-size: 3.4rem;
+}
+.information-about{
+    font-family: 'Baloo 2', cursive;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.botao-know-more{
+    width: 250px;
+    height: 61px;
+    background: linear-gradient(#151515, #151515) padding-box,
+            linear-gradient(to right, #D00FFC 0%, #3A7DFF 100%) border-box;
+    border-radius: 50em;
+    border: 3px solid transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.know-more{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 400;
+    color: #FFFFFF;
+    opacity: 0.6;
+    font-size: 1rem;
+}
+.line{
+    margin-top: 104px;
+    width: 1350px;
+    border: 1.5px solid #FFFFFF;
+}
